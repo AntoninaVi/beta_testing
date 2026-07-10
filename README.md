@@ -17,7 +17,7 @@ I tested the beta version of Yandex Maps and Navigator for iOS.
 - [Proxyman — if you'll inspect network traffic]
 
 ## Results
-- [Checklist](link)
+- [Checklist](https://docs.google.com/document/d/1A56jLsvDqz95RW4A9BUc4cHPNY63OtcTjo5dztQlKZQ/edit?tab=t.0)
 - [Test cases](link)
 - [Bug reports](link)
 - [Test summary report](link)
