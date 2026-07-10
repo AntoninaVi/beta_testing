@@ -3,9 +3,10 @@
 I tested the beta version of Yandex Maps and Navigator for iOS.
 
 ## Environment
-- Device: iPhone 17
-- OS: iOS 26.5.1
-- App version: 2982 (332748), beta via TestFlight
+- Device: iPhone 17, Samsung A32
+- iOS 26.5.1
+- Android 13
+- App version: 2982 (332748), beta via TestFlight,
 
 ## Scope
 - Search (by address, organization name)
