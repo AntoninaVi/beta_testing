@@ -1,4 +1,4 @@
-# 📱 Mobile App Testing — Yandex Maps (Beta)
+# Mobile App Testing — Yandex Maps (Beta)
 
 I tested the beta version of Yandex Maps for iOS and Android.
 
