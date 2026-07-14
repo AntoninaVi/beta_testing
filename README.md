@@ -12,4 +12,5 @@ I tested the beta version of Yandex Maps for iOS and Android.
 - Device: iPhone 17, Samsung A32
 - iOS 26.5.1
 - Android 13
-- App version: 3001 (334501)
+- iOS app version: 3001 (334501)
+- Android app version 29.9.0 (739505830) 
