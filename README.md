@@ -2,7 +2,7 @@
 I tested the beta version of Yandex Maps for iOS and Android, as part of Yandex's official public beta program (TestFlight / Google Play Beta).
 
 ### Scope: 
-search, route building and offline maps.
+search, route building and offline maps
 
 - [Checklist](https://docs.google.com/document/d/1A56jLsvDqz95RW4A9BUc4cHPNY63OtcTjo5dztQlKZQ/edit?tab=t.0)
 - [Test cases](https://drive.google.com/file/d/195673aH5gw4TBaxztyOswLyNmVykwCC4/view?usp=drive_link) created via [Test IT](https://testit.software/)
